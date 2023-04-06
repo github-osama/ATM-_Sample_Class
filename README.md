@@ -1,2 +1,3 @@
 # sample_atm_class
 We are trying to make a sample class for ATM machine
+This is a Python class called "Atm" that implements the basic functionalities of an ATM machine. The class has several methods that allow a user to create an account, check balance, withdraw money, deposit money, change the ATM PIN, and view the account details. The class is initialized with empty values for the account name, number, balance, and ATM PIN. The user can add their account details and create an ATM PIN through the "add_details" and "create_pin" methods respectively. The class also includes a "menu" method that presents the user with a menu of options for performing different operations on their account.
